@@ -1,3 +1,3 @@
 <?php 
-echo "string"."new msg kfdf cgfgdfgf fgf";
+echo "This is new data updated file";
  ?>
