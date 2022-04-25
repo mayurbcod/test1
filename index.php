@@ -1,3 +1,3 @@
 <?php 
-echo "string"."new msg";
+echo "string"."new msg k";
  ?>
